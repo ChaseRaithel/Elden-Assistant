@@ -1,6 +1,6 @@
 ﻿; AutoHotkey v2.0
 ; Elden_Assistant.ahk
-; Script for Elden Ring by Sevenmirror
+; Script for Elden Ring on PC by Sevenmirror
 ;
 ; Modify/share/copy to hearts content.  Just give me creds.  Thanks.
 
