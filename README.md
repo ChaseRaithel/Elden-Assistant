@@ -5,6 +5,7 @@ EldenAssistant is a powerful AutoHotkey script designed to enhance your Elden Ri
 ## Features
 
 - Customizable spell casting hotkeys with intelligent position tracking
+![Intelligent Spell Casting](https://github.com/ChaseRaithel/Elden-Assistant/blob/main/Elden-assistant_spell.gif)
 - Quick inventory and talisman access
 - Interactive map opening on a second monitor
 - Fast quit to main menu
